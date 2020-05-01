@@ -31,4 +31,6 @@ Hacer cambios es bastante lento, siempre terminas tocando muchos archivos por el
 
 ## tests
 
-**Pros**: Usa jest con supertest, que nos permite hacer tanto test de unidad como de integracion.
+**Pros**: Usa jest con supertest, que nos permite hacer tanto test de unidad como de integracion. \
+**Cons**: De vuelta, el sistema de tipos e inyeccionde de dependencias agrega friccion a los tests
+que constantemente tienen que ser refactorizados para agregar mocks.
