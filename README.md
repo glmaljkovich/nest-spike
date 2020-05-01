@@ -12,6 +12,7 @@
 
 ## Configuration
 Copy `ormconfig.example.js` to `ormconfig.js` and modify it with your local db settings.
+Copy `src/config/config.example.ts` to `src/config/config.ts`
 
 ## Installation
 
